@@ -198,3 +198,7 @@ The pinnacle of this project is the **Auto-Trade Loop**, which combines all feat
 6. **Repeat:** After the X hours ends, it re-optimizes on the new data and updates itself.
 
 **Result:** A bot that adapts its aggression, volatility, and risk settings every single hour to match the ever-changing crypto market.
+
+![AI PnL Optimization Flow](./AI PnL Optimization Flow.png)
+
+Figure 14 — AI PnL Optimization Flow
